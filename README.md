@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lynArk
-- 🌱 I’m currently learning Bash! 
-
+- 👋 Hi, I’m Lyna.
 
 <!---
 lynArk/lynArk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
